@@ -1,0 +1,8 @@
+Exemplos comuns: 
+    @import     incluir um css externo
+
+    @media      regras condicionais para dispositivos
+
+    @font-face      fontes extermas
+
+    @keyframes      animation

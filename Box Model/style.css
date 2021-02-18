@@ -1,0 +1,39 @@
+/* 
+0. Universal selector, combinators e negation peseudo class(:not())
+1. Element type selector e pseudo-element (::before, ::after)
+10. Classes e attribute selectors([type="radio"])
+100.ID selector
+1000. Inline
+
+O !important irá sobreescrever todas os outros estilos
+*/
+
+#id {
+    color: orange;
+}
+
+.title {
+    color: gray;
+}
+
+h1 {
+    color: green;
+}
+
+/* Important */
+#id2 {
+    color: orange;
+}
+
+.title2 {
+    color: gray;
+}
+
+h1 {
+    color: green !important;
+}
+
+
+
+
+

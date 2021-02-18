@@ -1,0 +1,5 @@
+Global: *
+Element/Type selector: "h1, h2, p, div"
+ID Selector: "#box, #container"
+Class Selector: ".red, .description"
+Attribute Selector: Pseudo-class, Pseudo-element, e outros
